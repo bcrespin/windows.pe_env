@@ -1,6 +1,6 @@
 @echo off
 
-set WPE=d:\winpe
+set WPE=c:\winpe
 set LOCAL="fr-FR"
 rem set LOCAL="us-US"
 
