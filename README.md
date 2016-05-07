@@ -1,4 +1,4 @@
-# these are some scripts to select , then install the  windows iso you wwant when booting in PXE 
+# these are some scripts to select, then install the windows iso you want when booting in PXE 
 
 version supported 7, 8, 8.1, 10(only enterprise iso or some hacked iso to provide install.wil )
 
