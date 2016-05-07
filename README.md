@@ -1,4 +1,5 @@
-# these are some script to help booting  from  a PXE server the windows iso DVD  with a windows PE iso
+# these are some scripts to select , then install the  windows iso you wwant when booting in PXE 
+
 version supported 7, 8, 8.1, 10(only enterprise iso or some hacked iso to provide install.wil )
 
 Notes: installing windows from PXE is only for fresh install, not upgrade !
